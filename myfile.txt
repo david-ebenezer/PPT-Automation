@@ -1,0 +1,17 @@
+Q: What is the difference between RAM and ROM?
+A: RAM (Random Access Memory) is a type of computer memory that is used to store data and instructions temporarily while the computer is running. It is volatile, meaning its contents are lost when the power is turned off. ROM (Read-Only Memory), on the other hand, is a type of computer memory that stores data and instructions permanently. It is non-volatile, meaning its contents are retained even when the power is turned off.
+
+Q: What is the purpose of a firewall?
+A: A firewall is a network security device that acts as a barrier between an internal network and the outside internet. Its purpose is to monitor and control incoming and outgoing network traffic based on predetermined security rules. Firewalls help protect a network by filtering out potentially harmful or unauthorized network traffic, thus preventing unauthorized access and keeping the network secure.
+
+Q: What is the difference between HTTP and HTTPS?
+A: HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are both protocols used for transferring data over the internet. The main difference between them lies in the security aspect. HTTP is not secure and data sent using this protocol is transmitted in plain text, which means it can be intercepted and read by attackers. HTTPS, on the other hand, uses encryption (usually SSL/TLS) to secure the data transmission. This encryption ensures that data exchanged between a web browser and a website remains private and cannot be easily intercepted or tampered with.
+
+Q: What is the role of a CPU in a computer?
+A: The CPU (Central Processing Unit) is often referred to as the "brain" of a computer. It is responsible for executing instructions and performing calculations required to run software programs. The CPU fetches instructions and data from memory, performs the necessary computations, and then stores the results back in memory. It is the primary component that carries out the majority of the processing in a computer system.
+
+Q: What is cloud computing?
+A: Cloud computing refers to the delivery of computing services over the internet. Instead of running programs or storing data on a local computer or server, cloud computing allows users to access these resources remotely through the internet. Cloud computing provides on-demand access to a shared pool of computing resources, including servers, storage, databases, and software applications. This model offers scalability, flexibility, and cost-efficiency since users can pay for the resources they need, when they need them, without the need for significant upfront infrastructure investments.
+
+Q: What is artificial intelligence (AI)?
+A: Artificial intelligence (AI) is a branch of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence. AI systems aim to simulate human cognitive abilities such as learning, reasoning, problem-solving, perception, and language understanding. These systems can be designed to analyze large amounts of data, recognize patterns, make decisions, and even interact with humans in natural language. AI technologies have applications in various fields, including automation, robotics, natural language processing, computer vision, and more.
